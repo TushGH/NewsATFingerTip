@@ -15,7 +15,7 @@ and BBC.
 
 # NewsATFingerTip
 
-# A news Application to get Current News From many Online news Portals
+
 
 # Application Overview
 	This Application retrives the RSS feeds of Multiple News Portals and Displays them .
